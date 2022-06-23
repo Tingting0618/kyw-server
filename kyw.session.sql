@@ -1,0 +1,1 @@
+select * from kywapi_wage

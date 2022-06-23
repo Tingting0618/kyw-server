@@ -1,0 +1,42 @@
+[
+    {
+      "model": "kywapi.wage",
+      "pk": 1,
+      "fields": {
+        "title": "Data Engineer",
+        "company": "Google",
+        "salary": 150000,
+        "city": "Nashville",
+        "work_state": "TN",
+        "year": 2018,
+        "source": "U.S. DEPT OF LABOR"
+      }
+    },
+    {
+      "model": "kywapi.wage",
+      "pk": 2,
+      "fields": {
+        "title": "Software Engineer",
+        "company": "Amazon",
+        "salary": 120000,
+        "city": "Boston",
+        "work_state": "MA",
+        "year": 2022,
+        "source": "U.S. DEPT OF LABOR"
+      }
+    },
+    {
+      "model": "kywapi.wage",
+      "pk": 3,
+      "fields": {
+        "title": "time",
+        "company": "time",
+        "salary": "200000",
+        "city": "Framingham",
+        "work_state": "MA",
+        "year": 2022,
+        "source": "User submission",
+        "timestamp": "Last Sync: 20/6/2022 @ 16:8:4"
+          }
+    }
+  ]

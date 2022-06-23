@@ -10,3 +10,4 @@ class Wage(models.Model):
     work_state = models.CharField(max_length=50)
     year = models.IntegerField()
     source = models.CharField(max_length=200)
+    timestamp = models.CharField(max_length=200)
